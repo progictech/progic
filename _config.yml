@@ -2,8 +2,8 @@
 # Site
 
 title: "Programming Magic"
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
+url: "http://programming-magic.github.io"
+baseurl:"progic"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
