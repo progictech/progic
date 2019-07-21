@@ -3,13 +3,13 @@
 
 title: "Programming Magic"
 url: "http://programming-magic.github.io"
-baseurl: 
+baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: ./images/logo-blue.png
 description: Product marketing template for Jekyll.
 author:
   name:
