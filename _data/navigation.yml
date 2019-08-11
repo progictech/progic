@@ -11,7 +11,7 @@
   new_window: false
   highlight: false
 - name: Contact
-  link: /contact/
+  link: https://billing.progictech.com/index.php?_url=/support/contact-us
   new_window: false
   highlight: false
 - name: Login
